@@ -10,7 +10,7 @@ import com.sanitas.calculadora.model.Operacion;
 /**
  * @author dvazquez
  * 
- *         Servicio operaciones calculadora
+ * Servicio operaciones calculadora
  *
  */
 
